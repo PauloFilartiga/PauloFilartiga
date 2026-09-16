@@ -46,12 +46,21 @@ Construindo projetos, aprendendo novas tecnologias e evoluindo todos os dias com
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### 🛠️ Ferramentas
+### 🛠️ Desenvolvimento
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
 </p>
 
+### 🎨 Design, Prototipação e Modelagem
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,photoshop" />
+</p>
+
+![Astah](https://img.shields.io/badge/Astah-000000?style=for-the-badge)
+![Draw.io](https://img.shields.io/badge/Draw.io-000000?style=for-the-badge&logo=diagramsdotnet&logoColor=F08705)
+  
 ---
 
 # 📌 Projetos em destaque
